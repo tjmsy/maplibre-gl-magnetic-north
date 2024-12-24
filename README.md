@@ -26,7 +26,7 @@ The magnetic heading is calculated using the latitude and longitude at the cente
 ### 2. Add the Magnetic North Control to your MapLibre map
 
 ```javascript
-import { MagneticNorthControl } from 'https://cdn.jsdelivr.net/gh/your-github-username/maplibre-gl-magnetic-north@v0.1.0/src/maplibre-gl-magnetic-north.js';
+import { MagneticNorthControl } from 'https://cdn.jsdelivr.net/gh/tjmsy/maplibre-gl-magnetic-north@v0.1.0/src/maplibre-gl-magnetic-north.js';
 
 // Initialize the control
 const magneticNorthControl = new MagneticNorthControl({
