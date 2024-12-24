@@ -56,7 +56,7 @@ export class MagneticNorthControl {
 
   addMagneticNorthButton() {
     this.container = document.createElement('div');
-    this.container.className = 'magnetic-north-button maplibregl-ctrl maplibregl-ctrl-group';
+    this.container.className = 'maplibregl-ctrl maplibregl-ctrl-group';
 
     const button = document.createElement('button');
     button.textContent = '🧭';
