@@ -45,7 +45,7 @@ export class MagneticNorthControl {
       latitude: lat,
       longitude: lng,
       apiKey: this.apiKey || undefined,
-      alternativeUrl: this.apiProxyUrl || undefined,
+      apiProxyUrl: this.apiProxyUrl || undefined,
     });
 
     if (magneticHeading !== null) {
