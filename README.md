@@ -1,7 +1,7 @@
 # maplibre-gl-magnetic-north
 
 A custom control for [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js/) that enables users to:
-- Align the map's heading to magnetic north based on the user's current location.
+- Align the map's heading to magnetic north based on the center of the map.
 - Customize API keys and proxy URLs for accessing geomagnetic data.
 
 The magnetic heading is calculated using the latitude and longitude at the center of the map view, making use of data from [NOAA](https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml)'s geomagnetic API or a user-specified proxy.
