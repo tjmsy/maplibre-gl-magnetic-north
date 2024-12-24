@@ -44,7 +44,7 @@ map.addControl(magneticNorthControl);
 
 ## API Proxy Configuration
 
-If you need to use a proxy for API requests due to CORS restrictions or other reasons, you can specify the `apiProxyUrl` option. The proxy should forward requests to `https://www.ngdc.noaa.gov/geomag-web/calculators/calculateDeclination`.
+If you want to keep your API key private, you can use a proxy server by specifying the apiProxyUrl option. The proxy should forward requests to `https://www.ngdc.noaa.gov/geomag-web/calculators/calculateDeclination`.
 
 Example proxy request format:
 ```javascript
