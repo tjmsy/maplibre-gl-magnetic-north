@@ -38,6 +38,6 @@ map.addControl(magneticNorthControl);
 
 ## Feedback & Contributions
 
-Feel free to open an issue, start a discussion, or reach out with any feedback or suggestions!
+Feel free to open an issue or reach out with any feedback or suggestions!
 
 Contributions are always welcome!
