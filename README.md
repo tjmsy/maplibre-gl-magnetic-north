@@ -39,6 +39,6 @@ map.addControl(magneticNorthControl);
 
 ## Feedback & Contributions
 
-Feel free to open an issue or reach out with any feedback or suggestions!
+Feel free to open an [issue](https://github.com/tjmsy/maplibre-gl-magnetic-north/issues) or share any feedback or suggestions!
 
-Contributions are always welcome!
+Contributions are always welcome.
