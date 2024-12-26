@@ -31,7 +31,6 @@ const magneticNorthControl = new MagneticNorthControl({
   apiProxyUrl: 'https://your-proxy-server.com', // Optional: Specify a proxy URL
 });
 
-// Add the control to your map
 map.addControl(magneticNorthControl);
 ```
 
