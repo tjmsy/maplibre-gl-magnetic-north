@@ -22,6 +22,7 @@ import { MagneticNorthControl } from 'https://cdn.jsdelivr.net/gh/tjmsy/maplibre
 Add control.
 
 ```javascript
+// Specify either apiKey or apiProxyUrl, but not both.
 // Avoid hardcoding apiKey in public code;
 // use a user-configured API proxy that includes the API key in requests to the NOAA API,
 // or use environment variables for security.
